@@ -1,0 +1,12 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon "
+  },
+  "author": "",
+  "license": "ISC"
+}
